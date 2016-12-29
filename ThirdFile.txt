@@ -1,1 +1,3 @@
-This is the third file that I added.
+This is the third file that was added.
+
+It is after the second file.
